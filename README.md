@@ -1,5 +1,5 @@
 # mobile_device_market_leader
-To find out which company is leading the mobile device market through an interactive visualization and self-organizing mapping(SOM)
+Finding mobile device market leaders through an interactive visualization and self-organizing mapping(SOM)
 
 * The dataset contains 213 companies that produced different mobile devices from 1989 to 2012.
 * There are 16 dimensions with 3162 rows
