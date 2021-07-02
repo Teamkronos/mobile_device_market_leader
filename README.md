@@ -41,7 +41,7 @@ Our Key Goal Indicator (KGI) is how successful companies and mobile devices are 
 ![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/6_result2.PNG)
 ![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/7_result3.PNG)
 
-### Self Organising Map
+### Using Self Organising Map for Visualization
 ![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/SOM.PNG)
 
 
