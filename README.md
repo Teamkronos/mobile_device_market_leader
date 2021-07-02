@@ -16,5 +16,28 @@ The main spreadsheet in our data set primarily includes mobile device names (nom
 
 Scatter Plot: To find trends or seasonality over time, we provide scatter plots of the feature data with respect to time. Some interesting pattern can be seen in the following scatter plot (Figure 3): RAM Capacity, Storage, CPU Clock and Pixel Density. These plots show horizontal periodic trend lay up along the y-axis. Such period can be explained by innovation diffusion theory and each period corresponds to an innovation diffusion period
 
-![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/diff.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/diffusion.PNG)
 ![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/1_scatterplot.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
