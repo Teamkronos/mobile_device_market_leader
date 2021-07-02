@@ -1,5 +1,4 @@
-# Interative Visualization of Mobile Device Market Leaders
-Finding mobile device market leaders through an interactive visualization and self-organizing mapping(SOM)
+# Topic: Finding Mobile Device Market Leaders Through An Interactive Visualization & Self-Organizing Mapping(SOM)
 
 * The dataset contains 213 companies that produced different mobile devices from 1989 to 2012.
 * There are 16 dimensions with 3162 rows
