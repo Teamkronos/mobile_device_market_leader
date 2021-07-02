@@ -18,7 +18,12 @@ Scatter Plot: To find trends or seasonality over time, we provide scatter plots 
 ![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/diffusion.PNG)
 ![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/1_scatterplot.PNG)
 
+Density Plot with Respect to the Features:  Positively skewed distribution can be observed on width,length, depth, volume and mass features on Figure 4 . This is due to devices such as tablets, which have significantly longer, wider and thicker measurement compared to an average mobile phone device. A density plot of these five features reveals a normal distribution, and the median of these attributes represents the most popular dimensions that customers have for mobile devices.
 
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/3_densityplot.PNG)
+
+### Interactive Dashboard
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/0_mainview.PNG)
 
 
 
